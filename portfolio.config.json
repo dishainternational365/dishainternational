@@ -1,15 +1,15 @@
 {
   "profile": {
     "name": "Disha International",
-    "title": "Tech Company",
+    "title": "tech company disha",
     "email": "dishainternational365@gmail.com",
-    "phone": "",
-    "location": "",
+    "phone": "9711279592",
+    "location": "bangalore",
     "linkedin": "",
     "topmate": "",
     "photo": "/placeholder-avatar.svg",
     "cvUrl": "",
-    "footerLine": "Tech Company"
+    "footerLine": "tech company disha"
   },
   "socials": [
     {
@@ -23,8 +23,8 @@
     "greeting": "Hi, I’m",
     "firstName": "Disha",
     "lastName": "International",
-    "role": "Tech Company",
-    "summary": "",
+    "role": "tech company disha",
+    "summary": "tech company",
     "primaryButton": {
       "label": "View Projects",
       "href": "#work"
@@ -73,9 +73,7 @@
   },
   "about": {
     "lead": "",
-    "paragraphs": [
-      "disha tech company"
-    ],
+    "paragraphs": [],
     "bullets": []
   },
   "skills": [],
@@ -114,7 +112,7 @@
     "posts": []
   },
   "modules": {
-    "backend": false,
-    "blog": false
+    "backend": true,
+    "blog": true
   }
 }
