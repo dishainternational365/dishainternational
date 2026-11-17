@@ -1,0 +1,118 @@
+{
+  "profile": {
+    "name": "Disha International",
+    "title": "Tech Company",
+    "email": "dishainternational365@gmail.com",
+    "phone": "9711279592",
+    "location": "Noida, India",
+    "linkedin": "",
+    "topmate": "",
+    "photo": "/placeholder-avatar.svg",
+    "cvUrl": "",
+    "footerLine": "4 Year of experience"
+  },
+  "socials": [
+    {
+      "label": "Email",
+      "icon": "mail",
+      "href": "mailto:dishainternational365@gmail.com"
+    }
+  ],
+  "hero": {
+    "status": "Disha International Technology",
+    "greeting": "Hi, I’m",
+    "firstName": "Disha",
+    "lastName": "International",
+    "role": "Tech Company",
+    "summary": "Cloud security · AI automation · Voice agents\nSecure cloud.\nSmarter automation.\nWe protect your Microsoft and multi-cloud estate with Defender and Wiz, and we remove repetitive work with n8n and AI. Built for businesses that cannot afford a breach or a slow process",
+    "primaryButton": {
+      "label": "View Projects",
+      "href": "#work"
+    },
+    "secondaryButtonLabel": "View Resume"
+  },
+  "stats": [],
+  "sections": {
+    "about": {
+      "label": "About",
+      "title": "About me"
+    },
+    "skills": {
+      "label": "Core Skills",
+      "title": "What I work with.",
+      "text": "The skills and tools I use most."
+    },
+    "projects": {
+      "badge": "Selected Work",
+      "title": "Featured Projects",
+      "text": "A few projects I am proud of."
+    },
+    "experience": {
+      "label": "Experience",
+      "title": "My career so far.",
+      "text": "Roles and what I did in them."
+    },
+    "credentials": {
+      "label": "Credentials",
+      "title": "Certifications and training.",
+      "text": "Certifications and continued learning."
+    },
+    "blog": {
+      "label": "Blog",
+      "title": "Notes and write-ups.",
+      "text": "Posts about what I am learning and building."
+    },
+    "testimonials": {
+      "title": "What people say"
+    },
+    "contact": {
+      "badge": "Let’s Talk",
+      "title": "Get in Touch",
+      "text": "Have a project, a role, or just a hello? My inbox is open."
+    }
+  },
+  "about": {
+    "lead": "Why Disha\nSecurity first, then automation\nWe build every system with security in mind from day one, so automation never becomes a new way in for attackers.",
+    "paragraphs": [],
+    "bullets": []
+  },
+  "skills": [],
+  "projects": [],
+  "experience": [],
+  "earlier": [],
+  "certs": [],
+  "training": [],
+  "education": [],
+  "mentoring": {
+    "enabled": false,
+    "pill": "",
+    "headline": "Mentor with Disha",
+    "text": "",
+    "bookLabel": "Book a Session on Topmate",
+    "linkedinLabel": "Connect on LinkedIn",
+    "stats": [],
+    "workedAtLabel": "Worked at",
+    "workedAt": []
+  },
+  "linkedinBanner": {
+    "eyebrow": "Insights · Career guidance",
+    "titleA": "Connect with",
+    "titleB": "Disha on LinkedIn",
+    "text": "",
+    "button": "Connect on LinkedIn"
+  },
+  "testimonialCta": {
+    "chip": "Your turn",
+    "titleA": "Worked with me?",
+    "titleB": "Share your experience",
+    "text": "Your testimonial helps others know what to expect.",
+    "button": "Leave a Testimonial"
+  },
+  "blog": {
+    "posts": []
+  },
+  "modules": {
+    "backend": false,
+    "blog": false
+  }
+}
