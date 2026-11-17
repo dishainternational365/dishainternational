@@ -3,13 +3,13 @@
     "name": "Disha International",
     "title": "Tech Company",
     "email": "dishainternational365@gmail.com",
-    "phone": "9711279592",
-    "location": "Noida, India",
+    "phone": "",
+    "location": "",
     "linkedin": "",
     "topmate": "",
     "photo": "/placeholder-avatar.svg",
     "cvUrl": "",
-    "footerLine": "4 Year of experience"
+    "footerLine": "Tech Company"
   },
   "socials": [
     {
@@ -19,12 +19,12 @@
     }
   ],
   "hero": {
-    "status": "Disha International Technology",
+    "status": "",
     "greeting": "Hi, I’m",
     "firstName": "Disha",
     "lastName": "International",
     "role": "Tech Company",
-    "summary": "Cloud security · AI automation · Voice agents\nSecure cloud.\nSmarter automation.\nWe protect your Microsoft and multi-cloud estate with Defender and Wiz, and we remove repetitive work with n8n and AI. Built for businesses that cannot afford a breach or a slow process",
+    "summary": "",
     "primaryButton": {
       "label": "View Projects",
       "href": "#work"
@@ -72,8 +72,10 @@
     }
   },
   "about": {
-    "lead": "Why Disha\nSecurity first, then automation\nWe build every system with security in mind from day one, so automation never becomes a new way in for attackers.",
-    "paragraphs": [],
+    "lead": "",
+    "paragraphs": [
+      "disha tech company"
+    ],
     "bullets": []
   },
   "skills": [],
